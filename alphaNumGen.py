@@ -1,4 +1,6 @@
-#Hello and wecome to My Licence Genorator, copy/paste the code #below to http://pythontutor.com/visualize.html#mode=edit to #execute. Thank you and have a great day!
+# Hello and wecome to My Licence Genorator, copy/paste the code 
+# below to http://pythontutor.com/visualize.html#mode=edit to execute. 
+# Thank you and have a great day!
 
 import random
 
